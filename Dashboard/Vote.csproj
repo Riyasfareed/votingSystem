@@ -98,5 +98,8 @@
   <ItemGroup>
     <None Include="Resources\ballot_7278447-fotor-2023082768141.jpg" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ballot_72784471.png" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

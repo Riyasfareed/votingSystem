@@ -118,22 +118,25 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
-  <data name="vote_4473981" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\vote_4473981.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="ballot_7278447" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\ballot_7278447.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="ballot_7278447-fotor-202308276814" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\ballot_7278447-fotor-202308276814.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="ballot_7278447-fotor-2023082768141" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ballot_7278447-fotor-2023082768141.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="electronic-voting" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\electronic-voting.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="ballot_7278447-fotor-202308276814" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ballot_7278447-fotor-202308276814.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="electronic-voting1" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\electronic-voting1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="ballot_7278447-fotor-2023082768141" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\ballot_7278447-fotor-2023082768141.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="ballot_7278447" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ballot_7278447.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="vote_4473981" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\vote_4473981.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ballot_72784471" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ballot_72784471.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>

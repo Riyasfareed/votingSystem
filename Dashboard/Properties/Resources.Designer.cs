@@ -93,6 +93,16 @@ namespace Dashboard.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap ballot_72784471 {
+            get {
+                object obj = ResourceManager.GetObject("ballot_72784471", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap electronic_voting {
             get {
                 object obj = ResourceManager.GetObject("electronic-voting", resourceCulture);
