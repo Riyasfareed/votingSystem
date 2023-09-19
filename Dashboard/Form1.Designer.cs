@@ -43,20 +43,23 @@
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
             this.exit = new System.Windows.Forms.Button();
             this.panel = new System.Windows.Forms.Panel();
-            this.submit = new System.Windows.Forms.Button();
-            this.pictureBox2 = new System.Windows.Forms.PictureBox();
-            this.checkedListBox = new System.Windows.Forms.CheckedListBox();
-            this.treasurer = new System.Windows.Forms.Button();
-            this.vicepresident = new System.Windows.Forms.Button();
+            this.viewprofile = new System.Windows.Forms.Button();
+            this.label4 = new System.Windows.Forms.Label();
+            this.label3 = new System.Windows.Forms.Label();
+            this.nomineeDetailsTextBox = new System.Windows.Forms.TextBox();
             this.secretary = new System.Windows.Forms.Button();
-            this.vicesecretary = new System.Windows.Forms.Button();
+            this.commiteemember = new System.Windows.Forms.Button();
+            this.submit = new System.Windows.Forms.Button();
+            this.profilephoto = new System.Windows.Forms.PictureBox();
+            this.checkedListBox = new System.Windows.Forms.CheckedListBox();
             this.president = new System.Windows.Forms.Button();
             this.VoteNow = new System.Windows.Forms.TextBox();
+            this.selectposition = new System.Windows.Forms.Label();
             this.panel1.SuspendLayout();
             this.panel2.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.panel.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.profilephoto)).BeginInit();
             this.SuspendLayout();
             // 
             // panel1
@@ -74,7 +77,7 @@
             this.panel1.Location = new System.Drawing.Point(0, 0);
             this.panel1.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.panel1.Name = "panel1";
-            this.panel1.Size = new System.Drawing.Size(258, 866);
+            this.panel1.Size = new System.Drawing.Size(258, 840);
             this.panel1.TabIndex = 0;
             // 
             // button5
@@ -88,7 +91,7 @@
             this.button5.ForeColor = System.Drawing.Color.White;
             this.button5.Image = ((System.Drawing.Image)(resources.GetObject("button5.Image")));
             this.button5.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.button5.Location = new System.Drawing.Point(13, 805);
+            this.button5.Location = new System.Drawing.Point(13, 779);
             this.button5.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.button5.Name = "button5";
             this.button5.Padding = new System.Windows.Forms.Padding(13, 12, 13, 12);
@@ -184,7 +187,7 @@
             this.panel4.Location = new System.Drawing.Point(245, 139);
             this.panel4.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.panel4.Name = "panel4";
-            this.panel4.Size = new System.Drawing.Size(13, 727);
+            this.panel4.Size = new System.Drawing.Size(13, 701);
             this.panel4.TabIndex = 2;
             // 
             // panel3
@@ -193,7 +196,7 @@
             this.panel3.Location = new System.Drawing.Point(0, 139);
             this.panel3.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.panel3.Name = "panel3";
-            this.panel3.Size = new System.Drawing.Size(13, 727);
+            this.panel3.Size = new System.Drawing.Size(13, 701);
             this.panel3.TabIndex = 1;
             // 
             // panel2
@@ -251,103 +254,141 @@
             // 
             // panel
             // 
+            this.panel.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
             this.panel.BackColor = System.Drawing.Color.RosyBrown;
-            this.panel.Controls.Add(this.submit);
-            this.panel.Controls.Add(this.pictureBox2);
-            this.panel.Controls.Add(this.checkedListBox);
-            this.panel.Controls.Add(this.treasurer);
-            this.panel.Controls.Add(this.vicepresident);
+            this.panel.Controls.Add(this.selectposition);
+            this.panel.Controls.Add(this.viewprofile);
+            this.panel.Controls.Add(this.label4);
+            this.panel.Controls.Add(this.label3);
+            this.panel.Controls.Add(this.nomineeDetailsTextBox);
             this.panel.Controls.Add(this.secretary);
-            this.panel.Controls.Add(this.vicesecretary);
+            this.panel.Controls.Add(this.commiteemember);
+            this.panel.Controls.Add(this.submit);
+            this.panel.Controls.Add(this.profilephoto);
+            this.panel.Controls.Add(this.checkedListBox);
             this.panel.Controls.Add(this.president);
-            this.panel.Location = new System.Drawing.Point(264, 91);
+            this.panel.Location = new System.Drawing.Point(258, 0);
             this.panel.Name = "panel";
-            this.panel.Size = new System.Drawing.Size(1077, 775);
+            this.panel.Size = new System.Drawing.Size(1075, 840);
             this.panel.TabIndex = 2;
+            // 
+            // viewprofile
+            // 
+            this.viewprofile.Location = new System.Drawing.Point(382, 731);
+            this.viewprofile.Name = "viewprofile";
+            this.viewprofile.Size = new System.Drawing.Size(164, 42);
+            this.viewprofile.TabIndex = 17;
+            this.viewprofile.Text = "View Profile";
+            this.viewprofile.UseVisualStyleBackColor = true;
+            this.viewprofile.Click += new System.EventHandler(this.viewprofile_Click);
+            // 
+            // label4
+            // 
+            this.label4.AutoSize = true;
+            this.label4.Font = new System.Drawing.Font("AC", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label4.Location = new System.Drawing.Point(406, 151);
+            this.label4.Name = "label4";
+            this.label4.Size = new System.Drawing.Size(233, 33);
+            this.label4.TabIndex = 16;
+            this.label4.Text = "Select Candidate";
+            // 
+            // label3
+            // 
+            this.label3.AutoSize = true;
+            this.label3.Font = new System.Drawing.Font("AC", 18F, System.Drawing.FontStyle.Bold);
+            this.label3.Location = new System.Drawing.Point(397, 521);
+            this.label3.Name = "label3";
+            this.label3.Size = new System.Drawing.Size(242, 33);
+            this.label3.TabIndex = 15;
+            this.label3.Text = "Candidate Details";
+            this.label3.Click += new System.EventHandler(this.label3_Click);
+            // 
+            // nomineeDetailsTextBox
+            // 
+            this.nomineeDetailsTextBox.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
+            this.nomineeDetailsTextBox.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(0)))), ((int)(((byte)(0)))));
+            this.nomineeDetailsTextBox.Font = new System.Drawing.Font("Michaelmas", 16F, System.Drawing.FontStyle.Bold);
+            this.nomineeDetailsTextBox.ForeColor = System.Drawing.SystemColors.InactiveBorder;
+            this.nomineeDetailsTextBox.Location = new System.Drawing.Point(368, 578);
+            this.nomineeDetailsTextBox.Multiline = true;
+            this.nomineeDetailsTextBox.Name = "nomineeDetailsTextBox";
+            this.nomineeDetailsTextBox.Size = new System.Drawing.Size(671, 212);
+            this.nomineeDetailsTextBox.TabIndex = 14;
+            this.nomineeDetailsTextBox.Text = "\r\n\r\n\r\n\r\n";
+            this.nomineeDetailsTextBox.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.nomineeDetailsTextBox.TextChanged += new System.EventHandler(this.nomineeDetailsTextBox_TextChanged);
+            // 
+            // secretary
+            // 
+            this.secretary.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.secretary.Location = new System.Drawing.Point(25, 307);
+            this.secretary.Name = "secretary";
+            this.secretary.Size = new System.Drawing.Size(291, 47);
+            this.secretary.TabIndex = 13;
+            this.secretary.Text = "Secretary";
+            this.secretary.UseVisualStyleBackColor = true;
+            this.secretary.Click += new System.EventHandler(this.secretary_Click_1);
+            // 
+            // commiteemember
+            // 
+            this.commiteemember.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.commiteemember.Location = new System.Drawing.Point(25, 383);
+            this.commiteemember.Name = "commiteemember";
+            this.commiteemember.Size = new System.Drawing.Size(291, 47);
+            this.commiteemember.TabIndex = 12;
+            this.commiteemember.Text = "Commitee Member";
+            this.commiteemember.UseVisualStyleBackColor = true;
+            this.commiteemember.Click += new System.EventHandler(this.commiteemember_Click);
             // 
             // submit
             // 
+            this.submit.Anchor = System.Windows.Forms.AnchorStyles.Right;
             this.submit.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(0)))), ((int)(((byte)(0)))));
             this.submit.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.submit.ForeColor = System.Drawing.Color.White;
-            this.submit.Location = new System.Drawing.Point(834, 431);
+            this.submit.Location = new System.Drawing.Point(885, 779);
             this.submit.Name = "submit";
-            this.submit.Size = new System.Drawing.Size(154, 39);
+            this.submit.Size = new System.Drawing.Size(154, 61);
             this.submit.TabIndex = 10;
             this.submit.Text = "Submit";
             this.submit.UseVisualStyleBackColor = false;
             this.submit.Click += new System.EventHandler(this.submit_Click);
             // 
-            // pictureBox2
+            // profilephoto
             // 
-            this.pictureBox2.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(128)))), ((int)(((byte)(0)))));
-            this.pictureBox2.Image = global::Dashboard.Properties.Resources.ballot_72784471;
-            this.pictureBox2.Location = new System.Drawing.Point(664, 184);
-            this.pictureBox2.Name = "pictureBox2";
-            this.pictureBox2.Size = new System.Drawing.Size(162, 135);
-            this.pictureBox2.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-            this.pictureBox2.TabIndex = 9;
-            this.pictureBox2.TabStop = false;
+            this.profilephoto.Anchor = System.Windows.Forms.AnchorStyles.Left;
+            this.profilephoto.BackColor = System.Drawing.Color.RosyBrown;
+            this.profilephoto.Image = global::Dashboard.Properties.Resources.ballot_72784471;
+            this.profilephoto.Location = new System.Drawing.Point(35, 497);
+            this.profilephoto.Name = "profilephoto";
+            this.profilephoto.Size = new System.Drawing.Size(244, 215);
+            this.profilephoto.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.profilephoto.TabIndex = 9;
+            this.profilephoto.TabStop = false;
+            this.profilephoto.Click += new System.EventHandler(this.pictureBox2_Click);
             // 
             // checkedListBox
             // 
+            this.checkedListBox.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
+            this.checkedListBox.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(128)))));
+            this.checkedListBox.Font = new System.Drawing.Font("Microsoft Sans Serif", 16F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.checkedListBox.FormattingEnabled = true;
-            this.checkedListBox.Location = new System.Drawing.Point(54, 132);
+            this.checkedListBox.Location = new System.Drawing.Point(368, 226);
             this.checkedListBox.Name = "checkedListBox";
-            this.checkedListBox.Size = new System.Drawing.Size(541, 242);
+            this.checkedListBox.Size = new System.Drawing.Size(671, 268);
             this.checkedListBox.TabIndex = 8;
             this.checkedListBox.SelectedIndexChanged += new System.EventHandler(this.checkedListBox_SelectedIndexChanged);
-            // 
-            // treasurer
-            // 
-            this.treasurer.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.treasurer.Location = new System.Drawing.Point(873, 33);
-            this.treasurer.Name = "treasurer";
-            this.treasurer.Size = new System.Drawing.Size(160, 47);
-            this.treasurer.TabIndex = 7;
-            this.treasurer.Text = "Treasurer";
-            this.treasurer.UseVisualStyleBackColor = true;
-            this.treasurer.Click += new System.EventHandler(this.treasurer_Click);
-            // 
-            // vicepresident
-            // 
-            this.vicepresident.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.vicepresident.Location = new System.Drawing.Point(220, 33);
-            this.vicepresident.Name = "vicepresident";
-            this.vicepresident.Size = new System.Drawing.Size(208, 47);
-            this.vicepresident.TabIndex = 6;
-            this.vicepresident.Text = "Vice President";
-            this.vicepresident.UseVisualStyleBackColor = true;
-            this.vicepresident.Click += new System.EventHandler(this.vicepresident_Click);
-            // 
-            // secretary
-            // 
-            this.secretary.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.secretary.Location = new System.Drawing.Point(446, 33);
-            this.secretary.Name = "secretary";
-            this.secretary.Size = new System.Drawing.Size(149, 47);
-            this.secretary.TabIndex = 4;
-            this.secretary.Text = "Secretary";
-            this.secretary.UseVisualStyleBackColor = true;
-            this.secretary.Click += new System.EventHandler(this.secretary_Click);
-            // 
-            // vicesecretary
-            // 
-            this.vicesecretary.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.vicesecretary.Location = new System.Drawing.Point(628, 33);
-            this.vicesecretary.Name = "vicesecretary";
-            this.vicesecretary.Size = new System.Drawing.Size(198, 47);
-            this.vicesecretary.TabIndex = 3;
-            this.vicesecretary.Text = "Vice Secretary";
-            this.vicesecretary.UseVisualStyleBackColor = true;
-            this.vicesecretary.Click += new System.EventHandler(this.vicesecretary_Click);
             // 
             // president
             // 
             this.president.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.president.Location = new System.Drawing.Point(54, 33);
+            this.president.Location = new System.Drawing.Point(25, 226);
             this.president.Name = "president";
-            this.president.Size = new System.Drawing.Size(147, 47);
+            this.president.Size = new System.Drawing.Size(291, 47);
             this.president.TabIndex = 2;
             this.president.Text = "President";
             this.president.UseVisualStyleBackColor = true;
@@ -356,15 +397,26 @@
             // VoteNow
             // 
             this.VoteNow.BackColor = System.Drawing.Color.Black;
+            this.VoteNow.Dock = System.Windows.Forms.DockStyle.Top;
             this.VoteNow.Font = new System.Drawing.Font("Microsoft Sans Serif", 32F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.VoteNow.ForeColor = System.Drawing.Color.White;
-            this.VoteNow.Location = new System.Drawing.Point(264, 0);
+            this.VoteNow.Location = new System.Drawing.Point(258, 0);
             this.VoteNow.Multiline = true;
             this.VoteNow.Name = "VoteNow";
-            this.VoteNow.Size = new System.Drawing.Size(1068, 85);
+            this.VoteNow.Size = new System.Drawing.Size(1075, 108);
             this.VoteNow.TabIndex = 3;
             this.VoteNow.Text = "Vote Now";
             this.VoteNow.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            // 
+            // selectposition
+            // 
+            this.selectposition.AutoSize = true;
+            this.selectposition.Font = new System.Drawing.Font("AC", 18F, System.Drawing.FontStyle.Bold);
+            this.selectposition.Location = new System.Drawing.Point(29, 151);
+            this.selectposition.Name = "selectposition";
+            this.selectposition.Size = new System.Drawing.Size(208, 33);
+            this.selectposition.TabIndex = 18;
+            this.selectposition.Text = "Select Position";
             // 
             // Form1
             // 
@@ -381,12 +433,14 @@
             this.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.Name = "Form1";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterParent;
-            this.Text = "git";
+            this.Text = "VotePage";
+            this.WindowState = System.Windows.Forms.FormWindowState.Maximized;
             this.panel1.ResumeLayout(false);
             this.panel2.ResumeLayout(false);
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             this.panel.ResumeLayout(false);
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).EndInit();
+            this.panel.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.profilephoto)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -408,15 +462,18 @@
         private System.Windows.Forms.Button exit;
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.Panel panel;
-        private System.Windows.Forms.Button vicepresident;
-        private System.Windows.Forms.Button secretary;
-        private System.Windows.Forms.Button vicesecretary;
         private System.Windows.Forms.Button president;
-        private System.Windows.Forms.Button treasurer;
         private System.Windows.Forms.TextBox VoteNow;
-        private System.Windows.Forms.PictureBox pictureBox2;
+        private System.Windows.Forms.PictureBox profilephoto;
         private System.Windows.Forms.CheckedListBox checkedListBox;
         private System.Windows.Forms.Button submit;
+        private System.Windows.Forms.Button commiteemember;
+        private System.Windows.Forms.Button secretary;
+        private System.Windows.Forms.TextBox nomineeDetailsTextBox;
+        private System.Windows.Forms.Label label4;
+        private System.Windows.Forms.Label label3;
+        private System.Windows.Forms.Button viewprofile;
+        private System.Windows.Forms.Label selectposition;
     }
 }
 

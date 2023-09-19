@@ -8,3 +8,4 @@ D:\Project\votingSystem\Dashboard\obj\Debug\Vote.csproj.GenerateResource.cache
 D:\Project\votingSystem\Dashboard\obj\Debug\Vote.csproj.CoreCompileInputs.cache
 D:\Project\votingSystem\Dashboard\obj\Debug\Dashboard.exe
 D:\Project\votingSystem\Dashboard\obj\Debug\Dashboard.pdb
+D:\Project\votingSystem\Dashboard\obj\Debug\Dashboard.CandidateProfile.resources
