@@ -1,0 +1,46 @@
+D:\Project\votingSystem\Dashboard\bin\Debug\Dashboard.exe.config
+D:\Project\votingSystem\Dashboard\bin\Debug\Dashboard.exe
+D:\Project\votingSystem\Dashboard\bin\Debug\Dashboard.pdb
+D:\Project\votingSystem\Dashboard\obj\Debug\Vote.csproj.AssemblyReference.cache
+D:\Project\votingSystem\Dashboard\obj\Debug\Dashboard.Form1.resources
+D:\Project\votingSystem\Dashboard\obj\Debug\Dashboard.Properties.Resources.resources
+D:\Project\votingSystem\Dashboard\obj\Debug\Vote.csproj.GenerateResource.cache
+D:\Project\votingSystem\Dashboard\obj\Debug\Vote.csproj.CoreCompileInputs.cache
+D:\Project\votingSystem\Dashboard\obj\Debug\Dashboard.exe
+D:\Project\votingSystem\Dashboard\obj\Debug\Dashboard.pdb
+D:\Project\votingSystem\Dashboard\obj\Debug\Dashboard.CandidateProfile.resources
+C:\Users\hewaw\OneDrive\Desktop\RAD\group project\votingSystemYasuri\votingSystem\Dashboard\obj\Debug\Vote.csproj.AssemblyReference.cache
+C:\Users\hewaw\OneDrive\Desktop\RAD\group project\votingSystemYasuri\votingSystem\Dashboard\obj\Debug\Vote.csproj.SuggestedBindingRedirects.cache
+C:\Users\hewaw\OneDrive\Desktop\RAD\group project\votingSystemYasuri\votingSystem\Dashboard\obj\Debug\Dashboard.exe
+C:\Users\hewaw\OneDrive\Desktop\RAD\group project\votingSystemYasuri\votingSystem\Dashboard\obj\Debug\Dashboard.pdb
+C:\Users\hewaw\OneDrive\Desktop\RAD\group project\votingSystemYasuri\votingSystem\Dashboard\bin\Debug\Dashboard.exe.config
+C:\Users\hewaw\OneDrive\Desktop\RAD\group project\votingSystemYasuri\votingSystem\Dashboard\bin\Debug\Dashboard.exe
+C:\Users\hewaw\OneDrive\Desktop\RAD\group project\votingSystemYasuri\votingSystem\Dashboard\obj\Debug\Dashboard.CandidateProfile.resources
+C:\Users\hewaw\OneDrive\Desktop\RAD\group project\votingSystemYasuri\votingSystem\Dashboard\obj\Debug\Dashboard.Form1.resources
+C:\Users\hewaw\OneDrive\Desktop\RAD\group project\votingSystemYasuri\votingSystem\Dashboard\obj\Debug\Dashboard.Properties.Resources.resources
+C:\Users\hewaw\OneDrive\Desktop\RAD\group project\votingSystemYasuri\votingSystem\Dashboard\obj\Debug\Vote.csproj.GenerateResource.cache
+C:\Users\hewaw\OneDrive\Desktop\RAD\group project\votingSystemYasuri\votingSystem\Dashboard\obj\Debug\Vote.csproj.CoreCompileInputs.cache
+C:\Users\hewaw\OneDrive\Desktop\RAD\group project\votingSystem\votingSystem\Dashboard\bin\Debug\Dashboard.exe.config
+C:\Users\hewaw\OneDrive\Desktop\RAD\group project\votingSystem\votingSystem\Dashboard\bin\Debug\Dashboard.exe
+C:\Users\hewaw\OneDrive\Desktop\RAD\group project\votingSystem\votingSystem\Dashboard\bin\Debug\Dashboard.pdb
+C:\Users\hewaw\OneDrive\Desktop\RAD\group project\votingSystem\votingSystem\Dashboard\obj\Debug\Vote.csproj.AssemblyReference.cache
+C:\Users\hewaw\OneDrive\Desktop\RAD\group project\votingSystem\votingSystem\Dashboard\obj\Debug\Vote.csproj.SuggestedBindingRedirects.cache
+C:\Users\hewaw\OneDrive\Desktop\RAD\group project\votingSystem\votingSystem\Dashboard\obj\Debug\Dashboard.CandidateProfile.resources
+C:\Users\hewaw\OneDrive\Desktop\RAD\group project\votingSystem\votingSystem\Dashboard\obj\Debug\Dashboard.Form1.resources
+C:\Users\hewaw\OneDrive\Desktop\RAD\group project\votingSystem\votingSystem\Dashboard\obj\Debug\Dashboard.Properties.Resources.resources
+C:\Users\hewaw\OneDrive\Desktop\RAD\group project\votingSystem\votingSystem\Dashboard\obj\Debug\Vote.csproj.GenerateResource.cache
+C:\Users\hewaw\OneDrive\Desktop\RAD\group project\votingSystem\votingSystem\Dashboard\obj\Debug\Vote.csproj.CoreCompileInputs.cache
+C:\Users\hewaw\OneDrive\Desktop\RAD\group project\votingSystem\votingSystem\Dashboard\obj\Debug\Dashboard.exe
+C:\Users\hewaw\OneDrive\Desktop\RAD\group project\votingSystem\votingSystem\Dashboard\obj\Debug\Dashboard.pdb
+C:\Users\hewaw\OneDrive\Desktop\RAD\group project\votingSystemY\votingSystem\Dashboard\obj\Debug\Vote.csproj.AssemblyReference.cache
+C:\Users\hewaw\OneDrive\Desktop\RAD\group project\votingSystemY\votingSystem\Dashboard\obj\Debug\Vote.csproj.SuggestedBindingRedirects.cache
+C:\Users\hewaw\OneDrive\Desktop\RAD\group project\votingSystemY\votingSystem\Dashboard\obj\Debug\Dashboard.CandidateProfile.resources
+C:\Users\hewaw\OneDrive\Desktop\RAD\group project\votingSystemY\votingSystem\Dashboard\obj\Debug\Dashboard.Form1.resources
+C:\Users\hewaw\OneDrive\Desktop\RAD\group project\votingSystemY\votingSystem\Dashboard\obj\Debug\Dashboard.Properties.Resources.resources
+C:\Users\hewaw\OneDrive\Desktop\RAD\group project\votingSystemY\votingSystem\Dashboard\obj\Debug\Vote.csproj.GenerateResource.cache
+C:\Users\hewaw\OneDrive\Desktop\RAD\group project\votingSystemY\votingSystem\Dashboard\obj\Debug\Vote.csproj.CoreCompileInputs.cache
+C:\Users\hewaw\OneDrive\Desktop\RAD\group project\votingSystemY\votingSystem\Dashboard\obj\Debug\Dashboard.exe
+C:\Users\hewaw\OneDrive\Desktop\RAD\group project\votingSystemY\votingSystem\Dashboard\obj\Debug\Dashboard.pdb
+C:\Users\hewaw\OneDrive\Desktop\RAD\group project\votingSystemY\votingSystem\Dashboard\bin\Debug\Dashboard.exe.config
+C:\Users\hewaw\OneDrive\Desktop\RAD\group project\votingSystemY\votingSystem\Dashboard\bin\Debug\Dashboard.exe
+C:\Users\hewaw\OneDrive\Desktop\RAD\group project\votingSystemY\votingSystem\Dashboard\bin\Debug\Dashboard.pdb

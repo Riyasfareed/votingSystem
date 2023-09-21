@@ -1,0 +1,43 @@
+F:\Levl 02 Semester ll\Rapid Application Development(CSC2213)\Voting System Project\Dashboard\Dashboard\bin\Debug\Dashboard.exe.config
+F:\Levl 02 Semester ll\Rapid Application Development(CSC2213)\Voting System Project\Dashboard\Dashboard\bin\Debug\Dashboard.exe
+F:\Levl 02 Semester ll\Rapid Application Development(CSC2213)\Voting System Project\Dashboard\Dashboard\bin\Debug\Dashboard.pdb
+F:\Levl 02 Semester ll\Rapid Application Development(CSC2213)\Voting System Project\Dashboard\Dashboard\obj\Debug\Dashboard.csproj.AssemblyReference.cache
+F:\Levl 02 Semester ll\Rapid Application Development(CSC2213)\Voting System Project\Dashboard\Dashboard\obj\Debug\Dashboard.Form1.resources
+F:\Levl 02 Semester ll\Rapid Application Development(CSC2213)\Voting System Project\Dashboard\Dashboard\obj\Debug\Dashboard.Properties.Resources.resources
+F:\Levl 02 Semester ll\Rapid Application Development(CSC2213)\Voting System Project\Dashboard\Dashboard\obj\Debug\Dashboard.csproj.GenerateResource.cache
+F:\Levl 02 Semester ll\Rapid Application Development(CSC2213)\Voting System Project\Dashboard\Dashboard\obj\Debug\Dashboard.csproj.CoreCompileInputs.cache
+F:\Levl 02 Semester ll\Rapid Application Development(CSC2213)\Voting System Project\Dashboard\Dashboard\obj\Debug\Dashboard.exe
+F:\Levl 02 Semester ll\Rapid Application Development(CSC2213)\Voting System Project\Dashboard\Dashboard\obj\Debug\Dashboard.pdb
+C:\Users\HP\Desktop\Voting Sysytem\Dashboard\bin\Debug\Dashboard.exe.config
+C:\Users\HP\Desktop\Voting Sysytem\Dashboard\bin\Debug\Dashboard.exe
+C:\Users\HP\Desktop\Voting Sysytem\Dashboard\bin\Debug\Dashboard.pdb
+C:\Users\HP\Desktop\Voting Sysytem\Dashboard\obj\Debug\Dashboard.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Voting Sysytem\Dashboard\obj\Debug\Dashboard.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\Desktop\Voting Sysytem\Dashboard\obj\Debug\Dashboard.GetResult.resources
+C:\Users\HP\Desktop\Voting Sysytem\Dashboard\obj\Debug\Dashboard.Properties.Resources.resources
+C:\Users\HP\Desktop\Voting Sysytem\Dashboard\obj\Debug\Dashboard.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\Voting Sysytem\Dashboard\obj\Debug\Dashboard.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Voting Sysytem\Dashboard\obj\Debug\Dashboard.exe
+C:\Users\HP\Desktop\Voting Sysytem\Dashboard\obj\Debug\Dashboard.pdb
+C:\Users\hewaw\OneDrive\Desktop\RAD\group project\votingSystem\Dashboard\bin\Debug\Dashboard.exe.config
+C:\Users\hewaw\OneDrive\Desktop\RAD\group project\votingSystem\Dashboard\bin\Debug\Dashboard.exe
+C:\Users\hewaw\OneDrive\Desktop\RAD\group project\votingSystem\Dashboard\bin\Debug\Dashboard.pdb
+C:\Users\hewaw\OneDrive\Desktop\RAD\group project\votingSystem\Dashboard\obj\Debug\Dashboard.csproj.AssemblyReference.cache
+C:\Users\hewaw\OneDrive\Desktop\RAD\group project\votingSystem\Dashboard\obj\Debug\Dashboard.csproj.SuggestedBindingRedirects.cache
+C:\Users\hewaw\OneDrive\Desktop\RAD\group project\votingSystem\Dashboard\obj\Debug\Dashboard.GetResult.resources
+C:\Users\hewaw\OneDrive\Desktop\RAD\group project\votingSystem\Dashboard\obj\Debug\Dashboard.Properties.Resources.resources
+C:\Users\hewaw\OneDrive\Desktop\RAD\group project\votingSystem\Dashboard\obj\Debug\Dashboard.csproj.GenerateResource.cache
+C:\Users\hewaw\OneDrive\Desktop\RAD\group project\votingSystem\Dashboard\obj\Debug\Dashboard.csproj.CoreCompileInputs.cache
+C:\Users\hewaw\OneDrive\Desktop\RAD\group project\votingSystem\Dashboard\obj\Debug\Dashboard.exe
+C:\Users\hewaw\OneDrive\Desktop\RAD\group project\votingSystem\Dashboard\obj\Debug\Dashboard.pdb
+C:\Users\hewaw\OneDrive\Desktop\RAD\group project\votingSystem3\Dashboard\bin\Debug\Dashboard.exe.config
+C:\Users\hewaw\OneDrive\Desktop\RAD\group project\votingSystem3\Dashboard\bin\Debug\Dashboard.exe
+C:\Users\hewaw\OneDrive\Desktop\RAD\group project\votingSystem3\Dashboard\bin\Debug\Dashboard.pdb
+C:\Users\hewaw\OneDrive\Desktop\RAD\group project\votingSystem3\Dashboard\obj\Debug\Dashboard.csproj.AssemblyReference.cache
+C:\Users\hewaw\OneDrive\Desktop\RAD\group project\votingSystem3\Dashboard\obj\Debug\Dashboard.csproj.SuggestedBindingRedirects.cache
+C:\Users\hewaw\OneDrive\Desktop\RAD\group project\votingSystem3\Dashboard\obj\Debug\Dashboard.GetResult.resources
+C:\Users\hewaw\OneDrive\Desktop\RAD\group project\votingSystem3\Dashboard\obj\Debug\Dashboard.Properties.Resources.resources
+C:\Users\hewaw\OneDrive\Desktop\RAD\group project\votingSystem3\Dashboard\obj\Debug\Dashboard.csproj.GenerateResource.cache
+C:\Users\hewaw\OneDrive\Desktop\RAD\group project\votingSystem3\Dashboard\obj\Debug\Dashboard.csproj.CoreCompileInputs.cache
+C:\Users\hewaw\OneDrive\Desktop\RAD\group project\votingSystem3\Dashboard\obj\Debug\Dashboard.exe
+C:\Users\hewaw\OneDrive\Desktop\RAD\group project\votingSystem3\Dashboard\obj\Debug\Dashboard.pdb
