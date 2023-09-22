@@ -1,0 +1,15 @@
+F:\Levl 02 Semester ll\Rapid Application Development(CSC2213)\Final Project\Login\WindowsFormsApp1\obj\Debug\Voting System.csproj.AssemblyReference.cache
+F:\Levl 02 Semester ll\Rapid Application Development(CSC2213)\Final Project\Login\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.login.resources
+F:\Levl 02 Semester ll\Rapid Application Development(CSC2213)\Final Project\Login\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+F:\Levl 02 Semester ll\Rapid Application Development(CSC2213)\Final Project\Login\WindowsFormsApp1\obj\Debug\Voting System.csproj.GenerateResource.cache
+F:\Levl 02 Semester ll\Rapid Application Development(CSC2213)\Final Project\Login\WindowsFormsApp1\obj\Debug\Voting System.csproj.CoreCompileInputs.cache
+F:\Levl 02 Semester ll\Rapid Application Development(CSC2213)\Final Project\Login\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+F:\Levl 02 Semester ll\Rapid Application Development(CSC2213)\Final Project\Login\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+F:\Levl 02 Semester ll\Rapid Application Development(CSC2213)\Final Project\Login\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+F:\Levl 02 Semester ll\Rapid Application Development(CSC2213)\Final Project\Login\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+F:\Levl 02 Semester ll\Rapid Application Development(CSC2213)\Final Project\Login\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+F:\Levl 02 Semester ll\Rapid Application Development(CSC2213)\Final Project\Login\WindowsFormsApp1\obj\Debug\Dashboard.Registration.resources
+F:\Levl 02 Semester ll\Rapid Application Development(CSC2213)\Final Project\Login\WindowsFormsApp1\obj\Debug\Dashboard.GetResult.resources
+F:\Levl 02 Semester ll\Rapid Application Development(CSC2213)\Final Project\Login\WindowsFormsApp1\obj\Debug\Dashboard.vote.resources
+F:\Levl 02 Semester ll\Rapid Application Development(CSC2213)\Final Project\Login\WindowsFormsApp1\obj\Debug\Dashboard.Nominee.resources
+F:\Levl 02 Semester ll\Rapid Application Development(CSC2213)\Final Project\Login\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Profile.resources

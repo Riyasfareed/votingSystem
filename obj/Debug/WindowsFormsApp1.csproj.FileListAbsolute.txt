@@ -1,0 +1,24 @@
+F:\Levl 02 Semester ll\Rapid Application Development(CSC2213)\Voting System Project\Login\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+F:\Levl 02 Semester ll\Rapid Application Development(CSC2213)\Voting System Project\Login\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+F:\Levl 02 Semester ll\Rapid Application Development(CSC2213)\Voting System Project\Login\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+F:\Levl 02 Semester ll\Rapid Application Development(CSC2213)\Voting System Project\Login\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+F:\Levl 02 Semester ll\Rapid Application Development(CSC2213)\Voting System Project\Login\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+F:\Levl 02 Semester ll\Rapid Application Development(CSC2213)\Voting System Project\Login\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+F:\Levl 02 Semester ll\Rapid Application Development(CSC2213)\Voting System Project\Login\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+F:\Levl 02 Semester ll\Rapid Application Development(CSC2213)\Voting System Project\Login\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+F:\Levl 02 Semester ll\Rapid Application Development(CSC2213)\Voting System Project\Login\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+F:\Levl 02 Semester ll\Rapid Application Development(CSC2213)\Voting System Project\Login\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+F:\Levl 02 Semester ll\Rapid Application Development(CSC2213)\Final Project\Login\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+F:\Levl 02 Semester ll\Rapid Application Development(CSC2213)\Final Project\Login\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+F:\Levl 02 Semester ll\Rapid Application Development(CSC2213)\Final Project\Login\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+F:\Levl 02 Semester ll\Rapid Application Development(CSC2213)\Final Project\Login\WindowsFormsApp1\bin\Debug\Dashboard.exe
+F:\Levl 02 Semester ll\Rapid Application Development(CSC2213)\Final Project\Login\WindowsFormsApp1\bin\Debug\Dashboard.pdb
+F:\Levl 02 Semester ll\Rapid Application Development(CSC2213)\Final Project\Login\WindowsFormsApp1\bin\Debug\Dashboard.exe.config
+F:\Levl 02 Semester ll\Rapid Application Development(CSC2213)\Final Project\Login\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+F:\Levl 02 Semester ll\Rapid Application Development(CSC2213)\Final Project\Login\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.login.resources
+F:\Levl 02 Semester ll\Rapid Application Development(CSC2213)\Final Project\Login\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+F:\Levl 02 Semester ll\Rapid Application Development(CSC2213)\Final Project\Login\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+F:\Levl 02 Semester ll\Rapid Application Development(CSC2213)\Final Project\Login\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+F:\Levl 02 Semester ll\Rapid Application Development(CSC2213)\Final Project\Login\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+F:\Levl 02 Semester ll\Rapid Application Development(CSC2213)\Final Project\Login\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+F:\Levl 02 Semester ll\Rapid Application Development(CSC2213)\Final Project\Login\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
